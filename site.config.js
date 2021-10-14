@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'af8c0752c8db439fb5b1b90d2f397060',
+  rootNotionPageId: 'c2fce0ab3dc948d3a2f8172c11fe192f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '形容Express',
-  domain: 'https://yiwenjiang.notion.site/af8c0752c8db439fb5b1b90d2f397060',
+  name: 'Yiwen',
+  domain: 'https://yiwenjiang.notion.site/Personal-Home-c2fce0ab3dc948d3a2f8172c11fe192f',
   author: 'Yiwen',
 
   // open graph metadata (optional)
