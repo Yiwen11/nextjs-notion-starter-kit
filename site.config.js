@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '形容',
+  name: '形容Express',
   domain: 'https://yiwenjiang.notion.site/af8c0752c8db439fb5b1b90d2f397060',
   author: 'Yiwen',
 
